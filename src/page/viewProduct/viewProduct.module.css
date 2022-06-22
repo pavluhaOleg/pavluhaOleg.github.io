@@ -1,0 +1,89 @@
+body {
+  background-color: #fff;
+}
+
+.container {
+  width: 84%;
+  margin: 0 auto 20px;
+  height: 89vh;
+  position: relative;
+  background: rgb(245, 234, 234);
+  padding: 30px 50px;
+}
+
+.title {
+  text-align: center;
+  color: #5c5c5c;
+  font-weight: 500;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+}
+
+.blockImg {
+  width: 300px;
+  height: auto;
+  overflow: hidden;
+  padding: 10px;
+  border-radius: 7px;
+  border: 1px solid #5c5c5c;
+  background: #fff;
+  box-shadow: 5px 8px 7px rgb(0 0 0 / 50%);
+
+  position: absolute;
+  top: 23vh;
+  right: 50px;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.color {
+  color: red;
+}
+
+.price {
+  font-weight: 500;
+  font-size: 29px;
+}
+
+.transfotm {
+  -webkit-transform: rotate('45deg');
+          transform: rotate('45deg');
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.ru {
+  font-size: 22px;
+}
+
+.backShop,
+.addBasket {
+  padding: 10px 17px;
+  color: #fff;
+  border-radius: 4px;
+  border: 1px solid #a92d43;
+  background-image: -webkit-linear-gradient(left top, #b84c57, #b34250, #ae384a, #a92d43, #a4203d);
+  background-image: linear-gradient(to right bottom, #b84c57, #b34250, #ae384a, #a92d43, #a4203d);
+  font-size: 17px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+
+.addBasket:hover {
+  background: rgb(245, 234, 234);
+  color: #a92d43;
+}
+
+.backShop {
+  background: -webkit-linear-gradient(45deg, rgb(90, 137, 144) 21%, rgb(86, 181, 184));
+  background: linear-gradient(45deg, rgb(90, 137, 144) 21%, rgb(86, 181, 184));
+  border: 1px solid rgb(90, 137, 144);
+  margin-left: 30px;
+}
+
+.backShop:hover {
+  background: rgb(245, 234, 234);
+  color: rgb(90, 137, 144);
+}

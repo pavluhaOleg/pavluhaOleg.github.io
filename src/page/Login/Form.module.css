@@ -1,0 +1,137 @@
+
+.wrapper{
+  width: 100vw;
+  height: 91vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: #c9c0c0;
+  z-index: 2;
+  position: fixed;
+  top: 70px;
+  left: 0;
+ }
+ .h1 {
+   font-weight: 100;
+   color: white;
+   text-align: center;
+   padding-bottom: 10px;
+   border-bottom: 1px solid rgb(79, 98, 148);
+ }
+ .title{    
+   font-size: 33px;
+   text-align: center;
+   color: #0e101c;
+   text-align: left;
+   margin-bottom: 27px;
+   font-weight: 500;
+ }
+ 
+ .form {
+   background: #0e101c;
+   width: 400px;
+   height: auto;
+   margin: 0 auto;
+   padding: 15px 25px;
+   border-radius: 5px;
+ }
+ 
+ .p {
+   color: #bf1650;
+ }
+ 
+ .p::before {
+   display: inline;
+   content: "⚠ ";
+ }
+ 
+ .input {
+   display: block;
+   box-sizing: border-box;
+   width: 100%;
+   border-radius: 4px;
+   border: 1px solid white;
+   padding: 10px 15px;
+   margin-bottom: 10px;
+   font-size: 14px;
+ }
+ 
+ .label {
+   line-height: 2;
+   text-align: left;
+   display: block;
+   color: white;
+   font-size: 14px;
+   font-weight: 200;
+   margin-top: 10px;
+ }
+ 
+ .inputSubmit {
+   background: #ec5990;
+   color: white;
+   text-transform: uppercase;
+   border: none;
+   margin-top: 30px;
+   padding: 20px;
+   font-size: 16px;
+   font-weight: 100;
+   letter-spacing: 10px;
+   border-radius: 5px;
+   width: 100%;
+ }
+ 
+ .inputSubmit:hover {
+   background: #bf1650;
+ }
+ 
+ .inputSubmit:active {
+   -webkit-transition: 0.3s all;
+   transition: 0.3s all;
+   -webkit-transform: translateY(3px);
+           transform: translateY(3px);
+   border: 1px solid transparent;
+   opacity: 0.8;
+ }
+ 
+ .input:disabled {
+   opacity: 0.4;
+ }
+ 
+ .inputSubmit{
+   -webkit-appearance: none;
+ }
+ 
+ .App {
+   max-width: 600px;
+   margin: 0 auto;
+ }
+ 
+ .hr {
+   margin-top: 30px;
+ }
+ 
+ .none{
+   display: none;
+ }
+ .positionInput{
+   width: 100%;
+   position: relative;
+ }
+ .cnpAse{
+   position: absolute;
+   width: 30px;
+   height: 30px;
+   font-size: 20px;
+   color: #000;
+   top: 5px;
+   right: 10px;
+   cursor: pointer;
+   line-height: 34px;
+   text-align: center;
+ }

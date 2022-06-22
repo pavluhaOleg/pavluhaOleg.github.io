@@ -1,0 +1,389 @@
+{
+    "goods": [
+        {
+            "id": 1,
+            "category": "skazki",
+            "name": "Корней чуковский. Любимые сказки и стихи",
+            "poster": "https://static.insalescdn.com/r/g53ZBwmNdV0/rs:fit:1000:0:1/plain/images/products/1/4776/388821672/lyubimye.jpg",
+            "price": 245
+        },
+        {
+            "id": 2,
+            "category": "skazki",
+            "name": "Корней Чуковский. Стихи и сказки",
+            "poster": "https://images.prom.ua/2528961352_kniga-stihi-i.jpg",
+            "price": 130
+        },
+        {
+            "id": 3,
+            "category": "skazki",
+            "name": "Дейрдре Салливан. Книга 13 сказок лесов и морей.",
+            "poster": "https://images.prom.ua/3282897019_w640_h640_3282897019.jpg",
+            "price": 375
+        },
+        {
+            "id": 4,
+            "category": "skazki",
+            "name": "Корней Чуковский. Любимые стихи (на русском языке). ",
+            "poster": "https://readme.com.ua/wp-content/webp-express/webp-images/uploads/2021/10/zolotaja-kollekcija-ljubimye-stihi.jpg.webp",
+            "price": 330
+        },
+        {
+            "id": 5,
+            "category": "skazki",
+            "name": "Стихи и сказки для самых маленьких. Самуил Маршак",
+            "poster": "https://images.prom.ua/3313963757_kniga-stihi-i.jpg",
+            "price": 170
+        },
+        {
+            "id": 6,
+            "category": "skazki",
+            "name": "Первые сказки малыша. Золотая коллекция",
+            "poster": "https://pebblebead.com/image/cache/wp/gp/toy/toy14688_130549-400x400.webp",
+            "price": 303
+        },
+        {
+            "id": 7,
+            "category": "skazki",
+            "name": "Три повести о Малыше и Карлсоне",
+            "poster": "https://static.insalescdn.com/r/W0oiYn1ZxFY/rs:fit:1000:0:1/plain/images/products/1/3866/388820762/978-5-389-06150-7_1_.jpg",
+            "price": 400
+        },
+        {
+            "id": 8,
+            "category": "skazki",
+            "name": "Большая книга стихов и сказок",
+            "poster": "https://static.insalescdn.com/r/WkhpA64wjCg/rs:fit:1000:0:1/plain/images/products/1/493/466321901/557f0953e445782246bcf335a6777db6.jpg",
+            "price": 220
+        },
+        {
+            "id": 9,
+            "category": "skazki",
+            "name": "Золотые сказки. A.Пушкин",
+            "poster": "//readme.com.ua/wp-content/webp-express/webp-images/uploads/2021/11/978-5-389-02601-8.jpg.webp",
+            "price": 220
+        },
+        {
+            "id": 10,
+            "category": "skazki",
+            "name": "Сказки народов мира. Борис Акунин",
+            "poster": "https://images.prom.ua/3208230222_w640_h640_3208230222.jpg",
+            "price": 199
+        },
+        {
+            "id": 11,
+            "category": "skazki",
+            "name": "Большая книга русских сказок",
+            "poster": "https://www.bookovka.ua/1221186-large_default/bolshaya-kniga-russkikh-skazok.jpg",
+            "price": 147
+        },
+        {
+            "id": 12,
+            "category": "skazki",
+            "name": "Алиса в Зазеркалье. Кэрролл Льюи",
+            "poster": "https://readme.com.ua/wp-content/webp-express/webp-images/uploads/2021/01/dsc00068.jpg.webp",
+            "price": 1070
+        },
+        {
+            "id": 13,
+            "category": "skazki",
+            "name": "Приключения Эмиля из Лённеберги",
+            "poster": "https://static.insalescdn.com/r/YgGCDy970UM/rs:fit:1000:0:1/plain/images/products/1/4133/268202021/001.png",
+            "price": 325
+        },
+        {
+            "id": 14,
+            "category": "skazki",
+            "name": "Книга Носов Н. Незнайка на Луне",
+            "poster": "https://readme.com.ua/wp-content/webp-express/webp-images/uploads/2021/12/neznajka-na-lune.jpg.webp",
+            "price": 410
+        },
+        {
+            "id": 15,
+            "category": "skazki",
+            "name": "ЛУЧШИЕ НАРОДНЫЕ СКАЗКИ.",
+            "poster": "https://images.prom.ua/2825665417_kniga-luchshie-narodnye.jpg",
+            "price": 125
+        },
+        {
+            "id": 16,
+            "category": "skazki",
+            "name": "Русские народные сказки.",
+            "poster": "https://images.prom.ua/3652192192_w640_h640_russkie-narodnye-skazki.jpg",
+            "price": 368
+        },
+        {
+            "id": 17,
+            "category": "skazki",
+            "name": "Стихи и сказки для самых маленьких. Самуил Маршак",
+            "poster": "https://images.prom.ua/3313963757_kniga-stihi-i.jpg",
+            "price": 170
+        },
+        {
+            "id": 18,
+            "category": "skazki",
+            "name": "Золотая коллекция. Народные сказки.",
+            "poster": "https://content2.rozetka.com.ua/goods/images/big/260913044.jpg",
+            "price": 260
+        },
+        {
+            "id": 19,
+            "category": "skazki",
+            "name": "Лучшие народные сказки",
+            "poster": "https://www.kniging.com.ua/image/cache/data/book/proza20/978-617-7562-18-3-295x350.jpg",
+            "price": 113
+        },
+        {
+            "id": 20,
+            "category": "skazki",
+            "name": "Лучшие народные сказки",
+            "poster": "https://www.kniging.com.ua/image/cache/data/book/proza20/978-617-7562-17-6-295x350.jpg",
+            "price": 113
+        },
+        {
+            "id": 21,
+            "category": "skazki",
+            "name": "Большая книга русских сказок",
+            "poster": "https://alfavit.eu/image/cache/products/2724685-458x599.jpg",
+            "price": 232
+        },
+        {
+            "id": 22,
+            "category": "skazki",
+            "name": "Сказки народов мира. Борис Акунин",
+            "poster": "https://images.prom.ua/3208230222_w640_h640_3208230222.jpg",
+            "price": 199
+        },
+        {
+            "id": 23,
+            "category": "skazki",
+            "name": "Большая книга русских сказок",
+            "poster": "https://www.bookovka.ua/1221186-large_default/bolshaya-kniga-russkikh-skazok.jpg",
+            "price": 147
+        },
+        {
+            "id": 24,
+            "category": "skazki",
+            "name": "Алиса в Зазеркалье. Кэрролл Льюи",
+            "poster": "https://readme.com.ua/wp-content/webp-express/webp-images/uploads/2021/01/dsc00068.jpg.webp",
+            "price": 1070
+        },
+        {
+            "id": 25,
+            "category": "detective",
+            "name": "Не говори никому. Олсен Грегг",
+            "poster": "https://images.prom.ua/3641541265_kniga-ne-govori.jpg",
+            "price": 130
+        },
+        {
+            "id": 26,
+            "category": "detective",
+            "name": "Книга 1793. История одного убийства. Натт-о-Даг Н.",
+            "poster": "https://readme.com.ua/wp-content/webp-express/webp-images/uploads/2020/05/001-копия-2.jpg.webp",
+            "price": 350
+        },
+        {
+            "id": 27,
+            "category": "detective",
+            "name": "Дорога тайн",
+            "poster": "https://balka-book.com/files/2021/05_03/22_07/u_files_store_1_586070.jpg",
+            "price": 280
+        },
+        {
+            "id": 28,
+            "category": "detective",
+            "name": "Просто Маса Борис Акунин",
+            "poster": "https://images.prom.ua/2629123962_kniga-prosto-masa.jpg",
+            "price": 249
+        },
+        {
+            "id": 29,
+            "category": "detective",
+            "name": "Восьмой детектив",
+            "poster": "https://www.bookovka.ua/1819231-large_default/vosmoj-detektiv.jpg",
+            "price": 114
+        },
+        {
+            "id": 31,
+            "category": "detective",
+            "name": "КНИГА ДЕТЕКТИВ МЕЙЗІ ХІТЧІНЗ",
+            "poster": "https://images.prom.ua/3015629155_kniga-detektiv-mejzi.jpg",
+            "price": 80
+        },
+        {
+            "id": 32,
+            "category": "detective",
+            "name": "Хирург. Автор - Тесс Герритсен",
+            "poster": "//images.zakupka.com/i3/firms/27/5321/5321345/kniga-hirurg-avtor-tess-gerritsen-azbuka_8c6fe540a2cc53c_1024x3000.webp",
+            "price": 70
+        },
+        {
+            "id": 33,
+            "category": "detective",
+            "name": "Выжившие. Джеймесон Ханна",
+            "poster": "https://images.prom.ua/3282934502_w200_h200_kniga-vyzhivshie-dzhejmeson.jpg",
+            "price": 280
+        },
+        {
+            "id": 34,
+            "category": "detective",
+            "name": "Леди-детектив. Магрс П",
+            "poster": "https://readme.com.ua/wp-content/webp-express/webp-images/uploads/2020/11/3081-scaled.jpg.webp",
+            "price": 199
+        },
+        {
+            "id": 35,
+            "category": "detective",
+            "name": "Смертельная белизна",
+            "poster": "https://static.insalescdn.com/r/w76WhL3LYig/rs:fit:1000:0:1/plain/images/products/1/4846/280163054/smertelnaya-belizna-1.jpg",
+            "price": 250
+        },
+        {
+            "id": 36,
+            "category": "detective",
+            "name": "Бентежна кров",
+            "poster": "https://bookopt.com.ua/media/catalog/product/cache/1/image/600x/7c3b53dcec3c66109e036e804b84fd50/b/e/bentezhna-krov_01.jpg",
+            "price": 232
+        },
+        {
+            "id": 37,
+            "category": "detective",
+            "name": "ЕЛЕМЕНТАРНО! НАУКОВИЙ ДЕТЕКТИВ.",
+            "poster": "https://knigovo.org.ua/files/2021/02_22/10_34/files_store_1_309942.jpg",
+            "price": 270
+        },
+        {
+            "id": 38,
+            "category": "detective",
+            "name": "Смерть под маской, К. Грэм",
+            "poster": "https://images.prom.ua/3282936882_w200_h200_kniga-smert-pod.jpg",
+            "price": 390
+        },
+        {
+            "id": 39,
+            "category": "detective",
+            "name": "Похитители невест. Старый русский детектив",
+            "poster": "https://www.bookovka.ua/389112-large_default/pokhititeli-nevest-staryj-russkij-detektiv-sbornik.jpg",
+            "price": 47
+        },
+        {
+            "id": 40,
+            "category": "detective",
+            "name": "Шерлок Холмс в России",
+            "poster": "https://www.bookovka.ua/419695-large_default/sherlok-kholms-v-rossii-staryj-russkij-detektiv.jpg",
+            "price": 58
+        },
+        {
+            "id": 41,
+            "category": "detective",
+            "name": "Аґент Лилик",
+            "poster": "https://thebooks.com.ua/image/catalog/lylyk1.png",
+            "price": 232
+        },
+        {
+            "id": 42,
+            "category": "detective",
+            "name": "Тайна серебряного зеркала. Дойл А.",
+            "poster": "https://dumka.top/image/cachewebp/catalog/A_1KSD/PAPKA_9.8/55470_105630-1000x1000.webp",
+            "price": 148
+        },
+        {
+            "id": 43,
+            "category": "detective",
+            "name": "Ослепленная блеском. Аджа Рейден ",
+            "poster": "https://readme.com.ua/wp-content/webp-express/webp-images/uploads/2022/04/u_files_store_6_18022.jpg.webp",
+            "price": 320
+        },
+        {
+            "id": 44,
+            "category": "detective",
+            "name": "Фламандская доска",
+            "poster": "https://balka-book.com/files/2021/09_29/12_01/u_files_store_40_17507.jpg",
+            "price": 240
+        },
+        {
+            "id": 45,
+            "category": "detective",
+            "name": "Горлов тупик, Вечная ночь Полина Дашкова",
+            "poster": "https://images.prom.ua/2543630878_nabor-knig-gorlov.jpg",
+            "price": 189
+        },
+        {
+            "id": 46,
+            "category": "detective",
+            "name": "Сказки народов мира. Борис Акунин",
+            "poster": "https://images.prom.ua/3208230222_w640_h640_3208230222.jpg",
+            "price": 199
+        },
+        {
+            "id": 47,
+            "category": "detective",
+            "name": "Чужий космос – твої монстри. Декань Олексій",
+            "poster": "https://images.prom.ua/1868180325_w640_h640_korinnya-vsesvitu-chuzhij.jpg",
+            "price": 83
+        },
+        {
+            "id": 48,
+            "category": "detective",
+            "name": "Выжившие. Джеймесон Ханна",
+            "poster": "https://images.prom.ua/3282934502_w640_h640_kniga-vyzhivshie-dzhejmeson.jpg",
+            "price": 280
+        },
+        {
+            "id": 49,
+            "category": "skazki",
+            "name": "Сказки народов мира. Борис Акунин",
+            "poster": "https://images.prom.ua/3208230222_w640_h640_3208230222.jpg",
+            "price": 199
+        },
+        {
+            "id": 50,
+            "category": "skazki",
+            "name": "Большая книга русских сказок",
+            "poster": "https://www.bookovka.ua/1221186-large_default/bolshaya-kniga-russkikh-skazok.jpg",
+            "price": 147
+        },
+        {
+            "id": 51,
+            "category": "skazki",
+            "name": "Алиса в Зазеркалье. Кэрролл Льюи",
+            "poster": "https://readme.com.ua/wp-content/webp-express/webp-images/uploads/2021/01/dsc00068.jpg.webp",
+            "price": 1070
+        },
+        {
+            "id": 52,
+            "category": "detective",
+            "name": "Не говори никому. Олсен Грегг",
+            "poster": "https://images.prom.ua/3641541265_kniga-ne-govori.jpg",
+            "price": 130
+        },
+        {
+            "id": 53,
+            "category": "detective",
+            "name": "Книга 1793. История одного убийства. Натт-о-Даг Н.",
+            "poster": "https://readme.com.ua/wp-content/webp-express/webp-images/uploads/2020/05/001-копия-2.jpg.webp",
+            "price": 350
+        },
+        {
+            "id": 54,
+            "category": "detective",
+            "name": "Дорога тайн",
+            "poster": "https://balka-book.com/files/2021/05_03/22_07/u_files_store_1_586070.jpg",
+            "price": 280
+        },
+        {
+            "id": 55,
+            "category": "detective",
+            "name": "Просто Маса Борис Акунин",
+            "poster": "https://images.prom.ua/2629123962_kniga-prosto-masa.jpg",
+            "price": 249
+        },
+        {
+            "id": 56,
+            "category": "detective",
+            "name": "Восьмой детектив",
+            "poster": "https://www.bookovka.ua/1819231-large_default/vosmoj-detektiv.jpg",
+            "price": 114
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+.wrapper {
+  width: 84%;
+  height: 67vh;
+  background-color: seashell;
+  margin: 0 auto;
+
+  display: -webkit-box;
+
+  display: -ms-flexbox;
+
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container {
+  width: 50%;
+  padding: 30px;
+  background-color: #fff;
+  color: rgb(85, 29, 29);
+  font-size: 33px;
+  font-weight: 700;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  border-radius: 4px;
+}

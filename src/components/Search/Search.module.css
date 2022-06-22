@@ -1,0 +1,17 @@
+input {
+  outline: none;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color:#d1cecb;
+  width: 300px;
+  padding: 10px;
+  border: none;
+  border: 1px solid #2c2200;
+}
+
+input:hover {
+  background-color:rgb(207, 199, 188);
+}
+input:focus {
+  background-color:rgb(207, 199, 188);
+}
